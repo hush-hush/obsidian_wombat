@@ -1,6 +1,6 @@
 # Wombat for Obsidian.md
 
-A minimalist theme for [Obsidian.md](obsidian.md), based on the [Wombat256](https://www.vim.org/scripts/script.php?script_id=2465) theme
+A minimalist theme for [Obsidian.md](https://obsidian.md), based on the [Wombat256](https://www.vim.org/scripts/script.php?script_id=2465) theme
 for Vim.
 
 Dark gray background with easy-on-the-eyes desert-like colors.
